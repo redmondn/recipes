@@ -1,6 +1,7 @@
-Mike's amazing guacamole :-)
+**Chef Mike's amazing guacamole :-)**
+* **
 
-Ingredients:
+_Ingredients_
 
    - 2 avocados
    - 1 lime
@@ -8,13 +9,12 @@ Ingredients:
    - jalapeño to taste
    - onion
 
-Instructions:
+* **
+*Instructions*
 
    - cut and mash avocados
-   - chop onion
+   - finely chop onion
    - chop the jalapeño
    - squeeze lime
    - add salt
    - and mix well
-
-Enjoy
