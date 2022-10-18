@@ -10,11 +10,11 @@ Ingredients:
 
 Instructions:
 
-    cut and mash avocados
-    chop onion
-    chop the jalapeño
-    squeeze lime
-    add salt
-    and mix well
+    - cut and mash avocados
+    - chop onion
+    - chop the jalapeño
+    - squeeze lime
+    - add salt
+    - and mix well
 
 Enjoy
