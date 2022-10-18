@@ -1,4 +1,7 @@
 **Chef Mike's amazing guacamole :-)**
+
+![Bowl of guac](https://upload.wikimedia.org/wikipedia/commons/e/ed/Guacamole_avocados.jpg)
+
 * **
 
 _Ingredients_
